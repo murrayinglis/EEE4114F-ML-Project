@@ -1,3 +1,7 @@
 Data/
-Raw shapes/
+raw_large/
 Test/
+data_small/
+test_small/
+raw_small/
+Overlayed/
